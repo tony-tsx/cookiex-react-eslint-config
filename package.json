@@ -7,12 +7,16 @@
   "author": "tony-tsx <tony.js@zoho.eu>",
   "license": "MIT",
   "dependencies": {
-    "@cookiex/eslint-config": "^0.1.9",
+    "@cookiex/eslint-config": "*",
     "eslint-plugin-react": "^7.18.3",
     "eslint-plugin-react-hooks": "^2.5.0"
   },
+  "peerDependencies": {
+    "eslint": ">=6.8.0"
+  },
   "devDependencies": {
     "@types/react": "^16.9.23",
+    "eslint": ">=6.8.0",
     "react": "^16.13.0"
   }
 }
