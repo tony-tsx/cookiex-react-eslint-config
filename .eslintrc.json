@@ -1,6 +1,11 @@
 {
   "extends": "@cookiex",
   "plugins": [ "react-hooks", "react" ],
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
   "rules": {
 
     "react/display-name": "off",
