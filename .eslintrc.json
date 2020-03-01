@@ -33,7 +33,7 @@
     "import-helpers/order-imports": [ "warn", {
       "newlinesBetween": "always",
       "groups": [
-        "^react",
+        "/^react/",
         "module",
         "/^~/",
         [ "parent", "sibling", "index" ]
