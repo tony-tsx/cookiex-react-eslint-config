@@ -1,6 +1,6 @@
 {
   "name": "@cookiex-react/eslint-config",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Cookie React Eslint Recommended",
   "main": "index.js",
   "repository": "https://github.com/tony-tsx/cookiex-react-eslint-config.git",
